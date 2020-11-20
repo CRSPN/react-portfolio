@@ -33,7 +33,7 @@ function Parallax() {
                                     <h2 className="center brown-text "><i className="material-icons">flash_on</i></h2>
                                     <h5 className="center">About Me</h5>
 
-                                    <p className="light">I am a young developer, currently taking a full stack development course. In addition to being an aspiring developer I'm an artist, author/poet, animator, gardener, dungeon master, curry chef, crossword fan,
+                                    <p className="light">In addition to being an aspiring developer I'm an artist, animator, gardener, dungeon master, curry chef, crossword fan,
             cartoon fan, philosiphy fan and bird fan.</p>
                                 </div>
                             </div>
@@ -43,18 +43,18 @@ function Parallax() {
                             <div className="col s12 m4">
                                 <div className="icon-block">
                                     <h2 className="center brown-text"><i className="material-icons">group</i></h2>
-                                    <h5 className="center">User Experience Focused</h5>
+                                    <h5 className="center">Education</h5>
 
-                                    <p className="light"></p>
+                                    <p className="light">University of Utah full stack web development program graduate.</p>
                                 </div>
                             </div>
 
                             <div className="col s12 m4">
                                 <div className="icon-block">
                                     <h2 className="center brown-text"><i className="material-icons">settings</i></h2>
-                                    <h5 className="center">Easy to work with</h5>
+                                    <h5 className="center">Skills</h5>
 
-                                    <p className="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+                                    <p className="light">Pragmatic, personable, and skilled communicator. Easy to get along with, eager and willing to learn and improve my developer skills. </p>
                                 </div>
                             </div>
 
